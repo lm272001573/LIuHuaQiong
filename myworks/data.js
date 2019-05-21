@@ -1,0 +1,1 @@
+var myData={designer:{name:'刘华琼',phone:'15994740041',tag:[""],bg:'#1e2025'},gallery:[{src:"myworks/d06b68eac11800f145b727e7e1ed87b97b7cccfd356d7-QLOenD.jpg",w:540,h:960},{src:"myworks/e4a3a727ce3cde729308893a192baca6e9123b177076c-lBXcmb.png",w:505,h:1489},]}
